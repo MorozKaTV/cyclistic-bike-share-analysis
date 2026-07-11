@@ -30,7 +30,7 @@ Station names were also trimmed of leading/trailing whitespace, and derived colu
 
 ## Findings
 The full analysis and findings are documented in the accompanying PDF presentation. In summary:
-- **Annueal embers** ride primarily on weekdays during rush hours, concentrated at commuter locations.
+- **Annual embers** ride primarily on weekdays during rush hours, concentrated at commuter locations.
 - **Casual riders** peak on weekends in the afternoon, concentrated at tourist destinations.
 
 ## Limitations
