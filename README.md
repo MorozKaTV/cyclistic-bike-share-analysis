@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Case Study
 
 ## Project Overview
-Cyclistic is a bike-share company operating in Chicago. This project analyzes trip data to understand how **casual riders** and **annual members** use the service differently, in order to support a marketing strategy aimed at converting casual riders into annual members.
+Cyclistic is a fictional bike-share company operating in Chicago. This project analyzes trip data to understand how **casual riders** and **annual members** use the service differently, in order to support a marketing strategy aimed at converting casual riders into annual members.
 
 ## Dataset
 12 months of Cyclistic (Divvy) bike-share trip data, **May 2025 – May 2026**.
