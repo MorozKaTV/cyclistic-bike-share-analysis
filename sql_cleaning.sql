@@ -1,7 +1,7 @@
 /* ================================================================
    CYCLISTIC BIKE-SHARE CASE STUDY -- DATA CLEANING
    ----------------------------------------------------------------
-   Data source : Cyclistic bike-share trip data (Divvy)
+   Data source : Cyclistic bike-share trip data 
    Time range  : May 2025 - May 2026
    Tool        : PostgreSQL 16
    Goal        : Clean and prepare raw trip data for analysis of
