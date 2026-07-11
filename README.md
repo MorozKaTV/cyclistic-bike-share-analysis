@@ -4,7 +4,7 @@
 Cyclistic is a fictional bike-share company operating in Chicago. This project analyzes trip data to understand how **casual riders** and **annual members** use the service differently, in order to support a marketing strategy aimed at converting casual riders into annual members.
 
 ## Dataset
-12 months of Cyclistic (Divvy) bike-share trip data, **May 2025 – May 2026**.
+12 months of Cyclistic bike-share trip data, **May 2025 – May 2026**.
 
 ## Tools Used
 - **PostgreSQL 16** — data cleaning
@@ -30,7 +30,7 @@ Station names were also trimmed of leading/trailing whitespace, and derived colu
 
 ## Findings
 The full analysis and findings are documented in the accompanying PDF presentation. In summary:
-- **Members** ride primarily on weekdays during rush hours, concentrated at commuter locations.
+- **Annueal embers** ride primarily on weekdays during rush hours, concentrated at commuter locations.
 - **Casual riders** peak on weekends in the afternoon, concentrated at tourist destinations.
 
 ## Limitations
